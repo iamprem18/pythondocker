@@ -1,0 +1,6 @@
+www.google.com:443
+www.yahoo.com:443
+www.gmail.com:443
+aacontroltest.ptcnet.ptc.com:443
+www.youtube.com:443
+www.amazon.com:443
